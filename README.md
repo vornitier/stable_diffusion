@@ -4,7 +4,7 @@ Stable Diffusion experiments
 
 ## Notebooks
 
-[Diffusers Stable Diffusion](https://github.com/vornitier/stable_diffusion/blob/main/diffusers_stable_diffusion.ipynb)
+[Diffusers Stable Diffusion](https://github.com/vornitier/stable_diffusion/blob/main/diffusers_stable_diffusion.ipynb) \
 [Diffusers Stable Diffusion Video](https://github.com/vornitier/stable_diffusion/blob/main/diffusion_video.ipynb)
 
 ## Installation
