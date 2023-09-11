@@ -1,6 +1,6 @@
 # stable_diffusion
 
-Stable Diffusion experiements
+Stable Diffusion experiments
 
 ## Notebooks
 
