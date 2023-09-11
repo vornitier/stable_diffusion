@@ -4,9 +4,10 @@ Stable Diffusion experiments
 
 ## Notebooks
 
-[Diffusers Stable Diffusion](https://github.com/vornitier/stable_diffusion/blob/main/diffusers_stable_diffusion.ipynb) \
+[Diffusers Stable Diffusion](https://github.com/vornitier/stable_diffusion/blob/main/diffusers_stable_diffusion.ipynb) - the usual prompt ai generated images from stable diffusion.
 
-[Diffusers Stable Diffusion Video](https://github.com/vornitier/stable_diffusion/blob/main/diffusion_video.ipynb)
+[Diffusers Stable Diffusion Video](https://github.com/vornitier/stable_diffusion/blob/main/diffusion_video.ipynb) - extracting a video from youtube and incorporating it to 
+a series of images while doing stable diffusion.
 
 ## Installation
 
